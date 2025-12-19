@@ -1,0 +1,8 @@
+{
+  "name": "Copy of BizMinds AI Agent",
+  "description": "A world-class AI business partner for market research, content creation, and strategic analysis powered by Gemini 3.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
